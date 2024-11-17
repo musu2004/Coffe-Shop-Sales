@@ -18,7 +18,7 @@ This repository provides tools and assets for crafting beautiful dashboards and 
 - **Use Case:** A stunning coffee bean design to add warmth and character to your visuals.  
 
 ### 📊 Coffee Sales Data  
-- **File:** ![image alt](https://github.com/musu2004/Coffe-Shop-Sales/blob/main/Coffee%20Shop%20Sales_xlsx.png)
+- **File:** ![image alt]([https://github.com/musu2004/Coffe-Shop-Sales/blob/main/Coffee%20Shop%20Sales_xlsx.png](https://github.com/user-attachments/assets/6c2409db-453c-49fa-8560-b564faaf51d2))
 - **Use Case:** Analyze real or mock coffee shop sales data for trends, customer insights, and operational strategies.  
 
 ### ☕ Coffee Cup Icon  
